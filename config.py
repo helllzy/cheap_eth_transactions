@@ -26,6 +26,7 @@ EXACT_NONCE_COUNT = [10, 15]
 "transfer",                                          |
 "blur"                                               |
 -----------------------------------------------------|
+you can customize bungee chains and amount in `modules/modules.py`, bungee function
 '''
 
 MODULES = [
