@@ -11,8 +11,8 @@
 
 ---
 
-1. `git clone https://github.com/helllzy/arbitrum_voter`
-2. `cd arbitrum_voter`
+1. `git clone https://github.com/helllzy/cheap_eth_transactions`
+2. `cd cheap_eth_transactions`
 3. `pip install -r reqs.txt`
 4. поместите ключи в `data/priv.txt`, дополнительно поместите прокси в `data/proxies.txt`
 5. прочитайте все комментарии в `config.py` и настройте его
